@@ -1,4 +1,4 @@
-# JobNexa (Job Listing Portal) 🏢👨‍💻💼💻🌍
+# [JobNexa (Job Listing Portal)](https://jobnexa.onrender.com/) 🏢👨‍💻💼💻🌍
 
 JobNexa is a simple job listing app built with MERN Stack that allows the user to create a job opening publicly using a simple form for others. Everyone visiting the portal can view job openings and their details. The application includes informative cards providing job descriptions and visually appealing GIFs to enhance the UI.
 
